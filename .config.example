@@ -1,0 +1,15 @@
+# API配置文件
+# 请将您的API Key和Base URL填写在此处
+
+# 豆包方舟API Key
+ARK_API_KEY=YOUR_API_KEY
+
+# 豆包方舟API Base URL
+ARK_BASE_URL=https://ark.cn-beijing.volces.com/api/v3
+
+# 模型配置
+# 图像描述模型（用于 description.py）
+DESCRIPTION_MODEL=doubao-seed-1-6-251015
+
+# 图像生成模型（用于 generation.py）
+GENERATION_MODEL=doubao-seedream-4-5-251128
